@@ -5,5 +5,5 @@
 ## section 2 some toold 
 - waka 
 - rapid 
-## Section 3  case 
+## Section 3 use cases 
 
