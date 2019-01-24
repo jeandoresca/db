@@ -2,6 +2,8 @@
 ## section 1 depository 
 - pyton 
 - R
-## section 2 
+## section 2 some toold 
 - waka 
 - rapid 
+## Section 3  case 
+
